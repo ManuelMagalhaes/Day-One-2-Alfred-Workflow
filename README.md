@@ -3,6 +3,8 @@ Create Day One 2 entries directly from Alfred.
 
 This is my personal Alfred workflow to create entries in Day One 2. This extension allows to create entries, in the default journal or a specified one, and making them starred using Alfred. It's also possible to create entries with multiple lines by using "/n".
 
+The Day One 2's CLI tool needs to be installed to use this workflow. Instructions are available here: http://help.dayoneapp.com/day-one-2-0/command-line-interface-cli
+
 __Usage__
 
 
@@ -21,4 +23,5 @@ __Todo__
 
 
 -Tag support.
+
 -?.
